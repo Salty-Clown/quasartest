@@ -1,6 +1,7 @@
 # Quasar App (quasartest)
 
 A Demo Quasar App
+A Gerrit replication test
 
 ## Install the dependencies
 ```bash
